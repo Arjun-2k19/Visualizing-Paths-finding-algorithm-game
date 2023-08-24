@@ -1,9 +1,6 @@
-# Path finding Visualization
+# Path finding Visualization algorithms game
 
-### Run: 
- - Run index.html (I recommend using a LiveServer to run index.html on `localhost` (sometimes p5JS doesn't loadup correctly on raw index.html))
- 
- :)
+
 
  ## Instructions:
   - Choose a starting point and an ending point.
@@ -13,5 +10,4 @@
   - Press Reset to reset everything
   - Added a maze Generation option too.
  
-## Example:
-  <img src="example.gif" width="800" height="400" />
+
